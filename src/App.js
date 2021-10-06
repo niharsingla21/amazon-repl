@@ -1,23 +1,32 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import { BrowserRouter, Switch, Route } from "react-router-dom";
+import { Main } from "./Components/Main";
+import { Login } from "./Components/Login";
+import { SignUp } from "./Components/SignUp";
+import { PageNotFound } from "./Components/PageNotFound";
+import { useState } from "react";
+
+import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
+  const [isAuthorised, setIsAuthorised] = useState(false);
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <BrowserRouter>
+        <Switch>
+          <Route component={Main} exact path="/" />
+          <Route
+            component={Login}
+            exact
+            path="/login"
+            setAuthorisation={setIsAuthorised}
+          />
+          <Route component={SignUp} exact path="/signUp" />
+          <Route component={Login} exact path="/login" />
+          <Route component={PageNotFound} path="/" />
+        </Switch>
+      </BrowserRouter>
     </div>
   );
 }

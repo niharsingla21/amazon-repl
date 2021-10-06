@@ -1,0 +1,106 @@
+[
+    {
+        "header":"Cookware & dining",
+        "cardLinkText":"See more",
+        "cards": [
+            {
+                "img":"https://images-eu.ssl-images-amazon.com/images/G/31/IN-hq/2019/img/Kitchen/XCM_Manual_372x232_1198417XCM_Manual_1198417__4_1573567224_jpg_LOWER_QL85_._SY232_CB448746407_.jpg",
+                "imgCateg":"Tableware",
+                "imgLink":""
+            },
+            {
+                "img":"https://images-eu.ssl-images-amazon.com/images/G/31/IN-hq/2019/img/Kitchen/XCM_Manual_372x232_1198417XCM_Manual_1198417__1_1573567224_jpg_LOWER_QL85_._SY232_CB448746450_.jpg",
+                "imgCateg":"Gas stoves",
+                "imgLink":""
+            },
+            {
+                "img":"https://images-eu.ssl-images-amazon.com/images/G/31/IN-hq/2019/img/Kitchen/XCM_Manual_372x232_1198417XCM_Manual_1198417__2_1573567224_jpg_LOWER_QL85_._SY232_CB448746407_.jpg",
+                "imgCateg":"Cookware",
+                "imgLink":""
+            },
+            {
+                "img":"https://images-eu.ssl-images-amazon.com/images/G/31/IN-hq/2019/img/Kitchen/XCM_Manual_372x232_1198417XCM_Manual_3_copy_1573713358_jpg_LOWER_QL85_._SY232_CB448746425_.jpg",
+                "imgCateg":"Kitchen storage",
+                "imgLink":""
+            }
+        ]   
+    },
+    {
+        "header":"This Pujo, dazzle in style",
+        "cardLinkText":"See more",
+        "cards": [
+            {
+                "img":"https://images-eu.ssl-images-amazon.com/images/G/31/img20/Events/Pujo/btf/rev/Artboard_1_2x_QC2._SY232_CB640909336_.jpg",
+                "imgCateg":"Fashion & gold Jewellery",
+                "imgLink":""
+            },
+            {
+                "img":"https://images-eu.ssl-images-amazon.com/images/G/31/img20/Events/Pujo/btf/rev/Artboard_2_2x_QC2._SY232_CB640909336_.jpg",
+                "imgCateg":"Fashion accessories",
+                "imgLink":""
+            },
+            {
+                "img":"https://images-eu.ssl-images-amazon.com/images/G/31/img20/Events/Pujo/btf/rev/Artboard_3_2x_QC2._SY232_CB640909336_.jpg",
+                "imgCateg":"Make-up, perfumes & more",
+                "imgLink":""
+            },
+            {
+                "img":"https://images-eu.ssl-images-amazon.com/images/G/31/img20/Events/Pujo/btf/rev/Artboard_4_2x_QC2._SY232_CB640909336_.jpg",
+                "imgCateg":"Explore the store",
+                "imgLink":""
+            }
+        ]   
+    },
+    {
+        "header":"Diwali | Make your home festive ready",
+        "cardLinkText":"See more",
+        "cards": [
+            {
+                "img":"https://images-eu.ssl-images-amazon.com/images/G/31/img20/Events/Pujo/btf/rev/Artboard_1_2x_QC4._SY232_CB640933772_.jpg",
+                "imgCateg":"Furniture",
+                "imgLink":""
+            },
+            {
+                "img":"https://images-eu.ssl-images-amazon.com/images/G/31/img20/Events/Pujo/btf/rev/Artboard_2_2x_QC4._SY232_CB640933772_.jpg",
+                "imgCateg":"ACs & Refrigerators",
+                "imgLink":""
+            },
+            {
+                "img":"https://images-eu.ssl-images-amazon.com/images/G/31/img20/Events/Pujo/btf/rev/Artboard_3_2x_QC4._SY232_CB640933772_.jpg",
+                "imgCateg":"Home & Kitchen Appliances",
+                "imgLink":""
+            },
+            {
+                "img":"https://images-eu.ssl-images-amazon.com/images/G/31/img20/Events/Pujo/btf/rev/Artboard_4_2x_QC4._SY232_CB640933772_.jpg",
+                "imgCateg":"Cookware & Dinning",
+                "imgLink":""
+            }
+        ]   
+    },
+    {
+        "header":"Handpicked fitness essentials",
+        "cardLinkText":"See more",
+        "cards": [
+            {
+                "img":"https://images-eu.ssl-images-amazon.com/images/G/31/img20/Sports/PC_QC_T_H._SY232_CB406080027_.jpg",
+                "imgCateg":"Treadmills | Up to 50% off",
+                "imgLink":""
+            },
+            {
+                "img":"https://images-eu.ssl-images-amazon.com/images/G/31/img20/Sports/PC_QC_EB_H._SY232_CB406080024_.jpg",
+                "imgCateg":"Exercise bikes | Up to 60% off",
+                "imgLink":""
+            },
+            {
+                "img":"https://images-eu.ssl-images-amazon.com/images/G/31/img20/Sports/PC_QC_DB_H._SY232_CB406090888_.jpg",
+                "imgCateg":"Dumbbells | Starting ₹299",
+                "imgLink":""
+            },
+            {
+                "img":"https://images-eu.ssl-images-amazon.com/images/G/31/img19/Sports/QC/All/PC_QC_EG_H1._SY232_CB406092933_.jpg",
+                "imgCateg":"Exercise gloves | Starting ₹199",
+                "imgLink":""
+            }
+        ]   
+    }
+]

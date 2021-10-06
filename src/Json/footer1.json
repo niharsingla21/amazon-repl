@@ -1,0 +1,110 @@
+[
+  {
+        "header":"Get to Know Us",
+        "links": [
+            {
+                "text":"About Us",
+                "link":""
+            },
+            {
+                "text":"Careers",
+                "link":""
+            },
+            {
+                "text":"Press Releases",
+                "link":""
+            },
+            {
+                "text":"Amazon Cares",
+                "link":""
+            },
+            {
+                "text":"Gift a Smile",
+                "link":""
+            }
+        ]   
+    },
+    {
+        "header":"Connect with Us",
+        "links": [
+            {
+                "text":"Facebook",
+                "link":""
+            },
+            {
+                "text":"Twitter",
+                "link":""
+            },
+            {
+                "text":"Instagram",
+                "link":""
+            }
+        ]   
+    },
+    {
+        "header":"Make Money with Us",
+        "links": [
+            {
+                "text":"Sell on Amazon",
+                "link":""
+            },
+            {
+                "text":"Sell under Amazon Accelerator",
+                "link":""
+            },
+            {
+                "text":"Amazon Global Selling",
+                "link":""
+            },
+            {
+                "text":"Become an Affiliate",
+                "link":""
+            },
+            {
+                "text":"Fulfilment by Amazon",
+                "link":""
+            },
+            {
+                "text":"Advertise Your Products",
+                "link":""
+            },
+            {
+                "text":"Amazon Pay on Merchants",
+                "link":""
+            }
+        ]   
+    },
+    {
+        "header":"Let Us Help You",
+        "links": [
+            {
+                "text":"COVID-19 and Amazon",
+                "link":""
+            },
+            {
+                "text":"Your Account",
+                "link":""
+            },
+            {
+                "text":"Returns Centre",
+                "link":""
+            },
+            {
+                "text":"100% Purchase Protection",
+                "link":""
+            },
+            {
+                "text":"Amazon App Download",
+                "link":""
+            },
+            {
+                "text":"Amazon Assistant Download",
+                "link":""
+            },
+            {
+                "text":"Help",
+                "link":""
+            }
+        ]   
+    }
+]
