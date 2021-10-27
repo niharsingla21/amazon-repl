@@ -9,19 +9,12 @@ import { useState } from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
-  const [isAuthorised, setIsAuthorised] = useState(false);
-
   return (
     <div className="App">
       <BrowserRouter>
         <Switch>
           <Route component={Main} exact path="/" />
-          <Route
-            component={Login}
-            exact
-            path="/login"
-            setAuthorisation={setIsAuthorised}
-          />
+          <Route component={Login} exact path="/login" />
           <Route component={SignUp} exact path="/signUp" />
           <Route component={Login} exact path="/login" />
           <Route component={PageNotFound} path="/" />
