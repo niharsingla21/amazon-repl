@@ -5,7 +5,7 @@ import {
   InputGroup,
   Navbar,
 } from "react-bootstrap";
-import Logo from "../../src/amazon-dark-logo-svg-vector.svg";
+import Logo from "../amazon-dark-logo-svg-vector.svg";
 
 export const NavBelt = () => {
   return (
